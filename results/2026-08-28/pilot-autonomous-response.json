@@ -1,0 +1,21 @@
+{
+  "model": "dsr-etude-35b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I do not know."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 627,
+    "completion_tokens": 6,
+    "total_tokens": 633,
+    "session_total_tokens": 28,
+    "session_prompt_tokens": 24,
+    "session_completion_tokens": 4
+  }
+}

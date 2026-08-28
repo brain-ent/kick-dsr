@@ -1,0 +1,24 @@
+{
+  "python": "3.12.13",
+  "vllm": "0.22.0",
+  "torch": "2.11.0+cu129",
+  "torch_cuda": "12.9",
+  "model_architecture": "Qwen3_5MoeForConditionalGeneration",
+  "quantization": {
+    "method": "auto-round",
+    "packing_format": "auto_round:auto_gptq",
+    "bits": 4,
+    "group_size": 128,
+    "symmetric": true
+  },
+  "vllm_flags": {
+    "tensor_parallel_size": 1,
+    "pipeline_parallel_size": 3,
+    "max_model_len": 1024,
+    "max_num_seqs": 1,
+    "gpu_memory_utilization": 0.8,
+    "cpu_offload_gb": 2,
+    "enforce_eager": true,
+    "prefix_caching": false
+  }
+}

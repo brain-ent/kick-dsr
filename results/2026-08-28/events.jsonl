@@ -1,0 +1,6 @@
+{"timestamp":"2026-08-28T10:57:04.709789","direction":"DSR -> QWEN","method":"POST","path":"/v1/completions","prompt_chars":3147}
+{"timestamp":"2026-08-28T10:58:23.690853","direction":"QWEN -> DSR","method":"POST","path":"/v1/completions","status":200,"text":"SEARCH: SIGMA-17","usage":{"prompt_tokens":698,"total_tokens":706,"completion_tokens":8,"prompt_tokens_details":null}}
+{"timestamp":"2026-08-28T10:58:23.692263","direction":"DSR -> QWEN","method":"POST","path":"/v1/completions","prompt_chars":3189}
+{"timestamp":"2026-08-28T10:59:52.355906","direction":"QWEN -> DSR","method":"POST","path":"/v1/completions","status":200,"text":"SEARCH: BOREALIS-9","usage":{"prompt_tokens":719,"total_tokens":728,"completion_tokens":9,"prompt_tokens_details":null}}
+{"timestamp":"2026-08-28T10:59:52.357319","direction":"DSR -> QWEN","method":"POST","path":"/v1/completions","prompt_chars":3224}
+{"timestamp":"2026-08-28T11:01:09.479791","direction":"QWEN -> DSR","method":"POST","path":"/v1/completions","status":200,"text":"VALUE=73","usage":{"prompt_tokens":737,"total_tokens":742,"completion_tokens":5,"prompt_tokens_details":null}}

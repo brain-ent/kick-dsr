@@ -1,0 +1,30 @@
+[
+  {
+    "kind": "chat",
+    "question_len": 314,
+    "retrieval_queries": null,
+    "stack_mode": "point",
+    "shortlist_n": 3,
+    "shortlist": [
+      {
+        "i": 1,
+        "text": "SIGMA-17 is linked to BOREALIS-9."
+      },
+      {
+        "i": 0,
+        "text": "Anton is linked to SIGMA-17."
+      },
+      {
+        "i": 2,
+        "text": "BOREALIS-9 resolves to 73."
+      }
+    ],
+    "history_chars": 0,
+    "prompt_chars": 2580,
+    "answer_head": "VALUE=73",
+    "prompt_tokens": 728,
+    "completion_tokens": 5,
+    "finish": "stop",
+    "ts": 1787903771.328
+  }
+]

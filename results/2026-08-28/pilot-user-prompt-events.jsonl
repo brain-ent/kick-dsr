@@ -1,0 +1,2 @@
+{"timestamp":"2026-08-28T10:55:00.538130","direction":"DSR -> QWEN","method":"POST","path":"/v1/completions","prompt_chars":3216}
+{"timestamp":"2026-08-28T10:56:11.328895","direction":"QWEN -> DSR","method":"POST","path":"/v1/completions","status":200,"text":"VALUE=73","usage":{"prompt_tokens":728,"total_tokens":733,"completion_tokens":5,"prompt_tokens_details":null}}

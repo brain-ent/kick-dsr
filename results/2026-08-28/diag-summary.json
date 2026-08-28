@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "chat",
+    "question_len": 26,
+    "retrieval_queries": null,
+    "stack_mode": "point",
+    "shortlist_n": 1,
+    "shortlist": [
+      {
+        "i": 0,
+        "text": "Anton is linked to SIGMA-17."
+      }
+    ],
+    "history_chars": 0,
+    "prompt_chars": 2511,
+    "answer_head": "VALUE=73",
+    "prompt_tokens": 737,
+    "completion_tokens": 5,
+    "finish": "stop",
+    "ts": 1787904069.48
+  }
+]
